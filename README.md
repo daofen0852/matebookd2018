@@ -11,7 +11,7 @@ RAM:16GB DDR4
 WIFI and Bluetooth:BCM94352Z
 
 
-Opencore version 0.7.7
+# Opencore version 0.7.7
 
 Everything is ok in big sur 11.6
 
@@ -19,6 +19,7 @@ Everything is ok in big sur 11.6
 # The only known issue:
 
 At the first update form bigsur to monterey, when the install program is finished, the first try to enter the system is worked. 
+
 But! After the restart ,the opencore EFI seems to be some problems and can not get into the monterey.
 
 Here is some codes in -v mode: <- EB.CS.UFVK
@@ -26,4 +27,5 @@ Here is some codes in -v mode: <- EB.CS.UFVK
 I don't know how to fix this,and when I reinstall the big sur 11.6, the system is worked again. 
 
 All in all, the EFI is worked in big sur and not ready to Monterey yet. 
+
 I wish someone can fix the problem of my EFI, thanks.
