@@ -15,6 +15,8 @@ WIFI and Bluetooth:BCM94352Z
 
 Everything is ok in big sur 11.6
 
+Some problems with Monterey 12.1
+
 
 # The only known issue:
 
